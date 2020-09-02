@@ -1,4 +1,4 @@
-In this data science and machine learning project, I classify sports personalities. Here, I restrict classification to only 5 people : 
+In this data science and machine learning project, I classify sports personalities. Here, I restrict classification to only 5 people: 
 
 1.Maria Sharapova
 2.Serena Williams
@@ -6,7 +6,7 @@ In this data science and machine learning project, I classify sports personaliti
 4.Roger Federer
 5.Lionel Messi
 
-Technologies used in this project : 
+Technologies used in this project:
 
 1.Python
 2.Numpy and OpenCV for data cleaning
