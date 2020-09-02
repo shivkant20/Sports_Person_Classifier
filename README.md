@@ -6,7 +6,7 @@ In this data science and machine learning project, I classify sports personaliti
 4.Roger Federer
 5.Lionel Messi
 
-Technologies used in this project,
+Technologies used in this project : 
 
 1.Python
 2.Numpy and OpenCV for data cleaning
